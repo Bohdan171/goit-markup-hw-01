@@ -7,7 +7,14 @@
     --brand-black-studio: #000000;
     --brand-background: #E5E5E5;
     --brand-background-team: #F5F4FA;
-5534534
+<<<<<<< HEAD
+{
+
+  
+}
+=======
+
+>>>>>>> 81d1b70ce3c8a1c9d842c6e75d42a75f206d2012
 body {
 color: var(--brand-black);
 font-family: 'Roboto', sans-serif;
